@@ -1,5 +1,6 @@
 # 💫 Hi 👋, I'm Aryan Singh Parmar
-|| C++ || Python || OOPs|| WebDev || AI/ML ||
+   B.Tech CSE Student || C++ || Python II
+   Exploring AI, ML & Backend Systems
 
 I am a B.Tech Computer Science student with a strong interest in backend development, Python programming, and Artificial Intelligence/Machine Learning. I enjoy solving problems through code and building practical, real-world applications.
 Alongside academics, I actively explore cybersecurity concepts and stay engaged with tech communities to keep learning beyond the classroom. I’m always looking for opportunities to apply my skills, gain hands-on experience, and grow as a developer.
